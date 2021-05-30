@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702183784702",
+    "firebase_url": "https://rentchat-cca73-default-rtdb.firebaseio.com",
+    "project_id": "rentchat-cca73",
+    "storage_bucket": "rentchat-cca73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702183784702:android:755d62d06dec725385e5af",
+        "android_client_info": {
+          "package_name": "com.example.rentchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702183784702-dofrpcd6jnlvnv5l43koteakikl9e89f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentchat",
+            "certificate_hash": "5f858b7207cb704650059fc934307b45f097c7dd"
+          }
+        },
+        {
+          "client_id": "702183784702-ulehi2eqasjmgm5qjlt7pig327g6bp26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvlgcJSlGC_zb71KXNd6l-Lpma7MvRnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702183784702-ulehi2eqasjmgm5qjlt7pig327g6bp26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

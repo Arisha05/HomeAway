@@ -1,0 +1,2 @@
+rootProject.name='RentChat'
+include ':app'
